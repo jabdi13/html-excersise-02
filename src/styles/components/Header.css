@@ -1,0 +1,13 @@
+.Header-container {
+  margin-bottom: 30px;
+}
+
+.Header-title h1 {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+.Header-title h2 {
+  font-size: 1.2em;
+  font-weight: bold;
+}

@@ -1,0 +1,25 @@
+.Navbar {
+  width: 100%;
+  margin-top: 10px;
+}
+
+.Navbar ul {
+  list-style: none;
+  display: flex;
+  background-color: var(--color-primary-gray) ;
+  border-radius: 10px;
+  color: #c84451;
+  font-weight: bold;
+}
+
+.Active {
+  background-color: #c84451;
+  color: var(--color-secondary-white);
+  border-radius: 10px 0 0 10px;
+}
+
+.Navbar li {
+  width: 20%;
+  padding: 20px 40px;
+  text-align: center;
+}

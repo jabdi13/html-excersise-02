@@ -1,0 +1,39 @@
+.Footer {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.SocialNetwork ul {
+  display: flex;
+  list-style: none;
+  color: var(--color-secondary-white);
+}
+
+.SocialNetwork li {
+  font-size: 20px;
+  text-align: center;
+  margin-right: 15px;
+}
+
+.SocialNetwork i {
+  width: 20px;
+  padding: 5px;
+  border-radius: 50px;
+}
+
+.SocialNetwork .fa-twitter {
+  background-color: #3ba7dc;
+}
+
+.SocialNetwork .fa-facebook {
+  background-color: #1f59a0;
+}
+
+.SocialNetwork .fa-whatsapp {
+  background-color: #66bc1a;
+}
+
+.SocialNetwork .fa-youtube {
+  background-color: #eb402f;
+}
