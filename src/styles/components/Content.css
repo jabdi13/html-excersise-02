@@ -1,0 +1,12 @@
+.Content {
+  display: flex;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  background-color: var(--color-secondary-white);
+}
+
+.Content img {
+  width: 40%;
+  margin-right: 20px;
+}
