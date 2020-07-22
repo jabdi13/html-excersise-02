@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Content Snapshot Comprobar la UI del componente Content 1`] = `
+<div
+  className="Content"
+>
+  <img
+    alt=""
+    src={Object {}}
+  />
+  <p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat doloribus labore autem? Voluptatem recusandae Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis nisi, repellat placeat amet consequuntur necessitatibus odio laborum quis quae quasi eligendi
+  </p>
+</div>
+`;

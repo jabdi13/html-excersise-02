@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer Snapshot Comprobar la UI del componente Footer 1`] = `
+<div
+  class="Footer"
+>
+  <div
+    class="SocialNetwork"
+  >
+    <ul>
+      <li>
+        <i
+          class="fa fa-twitter"
+        />
+      </li>
+      <li>
+        <i
+          class="fa fa-facebook"
+        />
+      </li>
+      <li>
+        <i
+          class="fa fa-whatsapp"
+        />
+      </li>
+      <li>
+        <i
+          class="fa fa-youtube"
+        />
+      </li>
+    </ul>
+  </div>
+  <small>
+    © 2012 Todos los derechos reservados
+  </small>
+</div>
+`;

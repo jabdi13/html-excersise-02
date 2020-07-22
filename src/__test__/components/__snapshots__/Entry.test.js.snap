@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Entry Snapshot Comprobar la UI del componente Entry 1`] = `
+<div
+  className="Entry"
+>
+  <div
+    className="Entry-metadata"
+  >
+    <p>
+      El 
+      29 de Octubre de 2012
+    </p>
+    <p>
+      Por 
+      <a
+        href=""
+      >
+        Ernesto G Bustamante
+      </a>
+    </p>
+    <small>
+      3
+       comentarios
+    </small>
+  </div>
+  <div
+    className="Entry-content"
+  >
+    <h1>
+      Las bondades de HTML5
+    </h1>
+    <p>
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet, totam nemo esse, aspernatur maxime iste dolore quod, impedit eaque corrupti deserunt voluptatum itaque eum porro consequuntur ad dolorum reiciendis. Dolorem?
+    </p>
+    <a
+      href=""
+    >
+      Leer más
+    </a>
+  </div>
+</div>
+`;

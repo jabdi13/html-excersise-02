@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Menu Snapshot Comprobar la UI del componente Menu 1`] = `
+<div
+  className="Navbar"
+>
+  <ul>
+    <li
+      className="Active"
+    >
+      Home
+    </li>
+    <li>
+      Acerca de
+    </li>
+    <li>
+      Portfolio
+    </li>
+    <li>
+      Blog
+    </li>
+    <li>
+      Contacto
+    </li>
+  </ul>
+</div>
+`;

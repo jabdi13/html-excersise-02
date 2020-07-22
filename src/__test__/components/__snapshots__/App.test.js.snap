@@ -1,0 +1,281 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App Snapshot Comprobar la UI del componente App 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="Header-container"
+  >
+    <div
+      className="Header-title"
+    >
+      <h1>
+        Ejercicio Web
+      </h1>
+      <h2>
+        Página creada con HTML5
+      </h2>
+    </div>
+    <div
+      className="Navbar"
+    >
+      <ul>
+        <li
+          className="Active"
+        >
+          Home
+        </li>
+        <li>
+          Acerca de
+        </li>
+        <li>
+          Portfolio
+        </li>
+        <li>
+          Blog
+        </li>
+        <li>
+          Contacto
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div
+    className="Main"
+  >
+    <div
+      className="FeaturedEntry"
+    >
+      <div
+        className="FeaturedEntry-info"
+      >
+        <h2>
+          Entrada destacada
+        </h2>
+        <h1>
+          Crea un sitio web usando HTML5
+        </h1>
+        <p>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores neque exercitationem quaerat magni recusandae iure vitae totam accusamus repudiandae. Quia dolor consequuntur voluptate, repellat velit nihil quod eaque reprehenderit quos?
+        </p>
+      </div>
+      <img
+        alt=""
+        src={Object {}}
+      />
+    </div>
+    <div
+      className="Entries"
+    >
+      <div
+        className="Entry"
+      >
+        <div
+          className="Entry-metadata"
+        >
+          <p>
+            El 
+            29 de Octubre de 2012
+          </p>
+          <p>
+            Por 
+            <a
+              href=""
+            >
+              Ernesto G Bustamante
+            </a>
+          </p>
+          <small>
+            3
+             comentarios
+          </small>
+        </div>
+        <div
+          className="Entry-content"
+        >
+          <h1>
+            Las bondades de HTML5
+          </h1>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet, totam nemo esse, aspernatur maxime iste dolore quod, impedit eaque corrupti deserunt voluptatum itaque eum porro consequuntur ad dolorum reiciendis. Dolorem?
+          </p>
+          <a
+            href=""
+          >
+            Leer más
+          </a>
+        </div>
+      </div>
+       
+      <hr />
+      <div
+        className="Entry"
+      >
+        <div
+          className="Entry-metadata"
+        >
+          <p>
+            El 
+            El 28 de Octubre de 2012
+          </p>
+          <p>
+            Por 
+            <a
+              href=""
+            >
+              Ernesto G Bustamante
+            </a>
+          </p>
+          <small>
+            21
+             comentarios
+          </small>
+        </div>
+        <div
+          className="Entry-content"
+        >
+          <h1>
+            HTML5 en dispositivos móviles
+          </h1>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet, totam nemo esse, aspernatur maxime iste dolore quod, impedit eaque corrupti deserunt voluptatum itaque eum porro consequuntur ad dolorum reiciendis. Dolorem?
+          </p>
+          <a
+            href=""
+          >
+            Leer más
+          </a>
+        </div>
+      </div>
+       
+      <hr />
+      <div
+        className="Entry"
+      >
+        <div
+          className="Entry-metadata"
+        >
+          <p>
+            El 
+            27 de Octubre de 2012
+          </p>
+          <p>
+            Por 
+            <a
+              href=""
+            >
+              Ernesto G Bustamante
+            </a>
+          </p>
+          <small>
+            6
+             comentarios
+          </small>
+        </div>
+        <div
+          className="Entry-content"
+        >
+          <h1>
+            Internet explorer es una basura
+          </h1>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet, totam nemo esse, aspernatur maxime iste dolore quod, impedit eaque corrupti deserunt voluptatum itaque eum porro consequuntur ad dolorum reiciendis. Dolorem?
+          </p>
+          <a
+            href=""
+          >
+            Leer más
+          </a>
+        </div>
+      </div>
+       
+      <hr />
+      <div
+        className="Entry"
+      >
+        <div
+          className="Entry-metadata"
+        >
+          <p>
+            El 
+            27 de Octubre de 2012
+          </p>
+          <p>
+            Por 
+            <a
+              href=""
+            >
+              Ernesto G Bustamante
+            </a>
+          </p>
+          <small>
+            2
+             comentarios
+          </small>
+        </div>
+        <div
+          className="Entry-content"
+        >
+          <h1>
+            Diseño web en plantillas retina
+          </h1>
+          <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Amet, totam nemo esse, aspernatur maxime iste dolore quod, impedit eaque corrupti deserunt voluptatum itaque eum porro consequuntur ad dolorum reiciendis. Dolorem?
+          </p>
+          <a
+            href=""
+          >
+            Leer más
+          </a>
+        </div>
+      </div>
+       
+    </div>
+    <div
+      className="Content"
+    >
+      <img
+        alt=""
+        src={Object {}}
+      />
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat doloribus labore autem? Voluptatem recusandae Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis nisi, repellat placeat amet consequuntur necessitatibus odio laborum quis quae quasi eligendi
+      </p>
+    </div>
+  </div>
+  <div
+    class="Footer"
+  >
+    <div
+      class="SocialNetwork"
+    >
+      <ul>
+        <li>
+          <i
+            class="fa fa-twitter"
+          />
+        </li>
+        <li>
+          <i
+            class="fa fa-facebook"
+          />
+        </li>
+        <li>
+          <i
+            class="fa fa-whatsapp"
+          />
+        </li>
+        <li>
+          <i
+            class="fa fa-youtube"
+          />
+        </li>
+      </ul>
+    </div>
+    <small>
+      © 2012 Todos los derechos reservados
+    </small>
+  </div>
+</div>
+`;
