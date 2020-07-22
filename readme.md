@@ -1,4 +1,4 @@
-# 2️⃣ First excercise
+# 2️⃣ Second excercise
 This was an exercise to practice HTML, CSS and JS to finally implement React and make some tests.
 
 ## 🔄 Instalation
