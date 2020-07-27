@@ -22,20 +22,38 @@ exports[`App Snapshot Comprobar la UI del componente App 1`] = `
     >
       <ul>
         <li
-          className="Active"
+          className="Active button"
+          id="home"
+          onClick={[Function]}
         >
           Home
         </li>
-        <li>
+        <li
+          className="button"
+          id="about"
+          onClick={[Function]}
+        >
           Acerca de
         </li>
-        <li>
+        <li
+          className="button"
+          id="portfolio"
+          onClick={[Function]}
+        >
           Portfolio
         </li>
-        <li>
+        <li
+          className="button"
+          id="blog"
+          onClick={[Function]}
+        >
           Blog
         </li>
-        <li>
+        <li
+          className="button"
+          id="contact"
+          onClick={[Function]}
+        >
           Contacto
         </li>
       </ul>
@@ -245,30 +263,30 @@ exports[`App Snapshot Comprobar la UI del componente App 1`] = `
     </div>
   </div>
   <div
-    class="Footer"
+    className="Footer"
   >
     <div
-      class="SocialNetwork"
+      className="SocialNetwork"
     >
       <ul>
         <li>
           <i
-            class="fa fa-twitter"
+            className="fa fa-twitter"
           />
         </li>
         <li>
           <i
-            class="fa fa-facebook"
+            className="fa fa-facebook"
           />
         </li>
         <li>
           <i
-            class="fa fa-whatsapp"
+            className="fa fa-whatsapp"
           />
         </li>
         <li>
           <i
-            class="fa fa-youtube"
+            className="fa fa-youtube"
           />
         </li>
       </ul>

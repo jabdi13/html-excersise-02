@@ -2,30 +2,30 @@
 
 exports[`Footer Snapshot Comprobar la UI del componente Footer 1`] = `
 <div
-  class="Footer"
+  className="Footer"
 >
   <div
-    class="SocialNetwork"
+    className="SocialNetwork"
   >
     <ul>
       <li>
         <i
-          class="fa fa-twitter"
+          className="fa fa-twitter"
         />
       </li>
       <li>
         <i
-          class="fa fa-facebook"
+          className="fa fa-facebook"
         />
       </li>
       <li>
         <i
-          class="fa fa-whatsapp"
+          className="fa fa-whatsapp"
         />
       </li>
       <li>
         <i
-          class="fa fa-youtube"
+          className="fa fa-youtube"
         />
       </li>
     </ul>

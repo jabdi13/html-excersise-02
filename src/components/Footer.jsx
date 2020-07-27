@@ -3,20 +3,20 @@ import '../styles/components/Footer.css';
 
 const Footer = () => {
   return (
-    <div class="Footer">
-      <div class="SocialNetwork">
+    <div className="Footer">
+      <div className="SocialNetwork">
         <ul>
           <li>
-            <i class="fa fa-twitter"></i>
+            <i className="fa fa-twitter"></i>
           </li>
           <li>
-            <i class="fa fa-facebook"></i>
+            <i className="fa fa-facebook"></i>
           </li>
           <li>
-            <i class="fa fa-whatsapp"></i>
+            <i className="fa fa-whatsapp"></i>
           </li>
           <li>
-            <i class="fa fa-youtube"></i>
+            <i className="fa fa-youtube"></i>
           </li>
         </ul>
       </div>

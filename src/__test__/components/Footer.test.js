@@ -1,5 +1,5 @@
 import React from 'react';
-import { shallow } from 'enzyme';
+import { shallow, mount } from 'enzyme';
 import { create } from 'react-test-renderer';
 import Footer from '../../components/Footer';
 
@@ -10,7 +10,7 @@ describe('<Footer />', () => {
   });
 
   test('Render de los iconos de redes sociales', () => {
-    expect(footer.contains(<i class="fa fa-twitter"></i>)).toBeTruthy();
+    expect(footer.contains(<i className="fa fa-twitter"></i>)).toBeTruthy();
   });
 });
 

@@ -12,10 +12,17 @@
   font-weight: bold;
 }
 
+.Navbar li:last-of-type {
+  border-radius: 0 10px 10px 0;
+}
+
+.Navbar li:first-of-type {
+  border-radius: 10px 0 0 10px;
+}
+
 .Active {
   background-color: #c84451;
   color: var(--color-secondary-white);
-  border-radius: 10px 0 0 10px;
 }
 
 .Navbar li {

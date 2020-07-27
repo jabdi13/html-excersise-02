@@ -6,20 +6,38 @@ exports[`Menu Snapshot Comprobar la UI del componente Menu 1`] = `
 >
   <ul>
     <li
-      className="Active"
+      className="Active button"
+      id="home"
+      onClick={[Function]}
     >
       Home
     </li>
-    <li>
+    <li
+      className="button"
+      id="about"
+      onClick={[Function]}
+    >
       Acerca de
     </li>
-    <li>
+    <li
+      className="button"
+      id="portfolio"
+      onClick={[Function]}
+    >
       Portfolio
     </li>
-    <li>
+    <li
+      className="button"
+      id="blog"
+      onClick={[Function]}
+    >
       Blog
     </li>
-    <li>
+    <li
+      className="button"
+      id="contact"
+      onClick={[Function]}
+    >
       Contacto
     </li>
   </ul>
